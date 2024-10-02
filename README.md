@@ -1,0 +1,22 @@
+<html>
+<head>
+  <title>Akram's GitHub Page</title>
+</head>
+<body>
+  <h1>Welcome to My GitHub Page</h1>
+  <table border="1">
+    <tr>
+      <th>Name</th>
+      <th>Akram Hassan</th>
+    </tr>
+    <tr>
+      <td>Introduction</td>
+      <td>Hello, I am Junior at George Mason University studying Information Technology with a concentration in Cybersecurity. I am seeking opportunities to gain experience in the IT field through an internship.</td>
+    </tr>
+    <tr>
+      <th>Hobbies</th>
+      <td>Basketball , Cars , Working out</td>
+    </tr>
+  </table>
+</body>
+</html>
